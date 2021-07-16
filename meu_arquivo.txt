@@ -1,1 +1,3 @@
 Meu primeiro repositórop Git.
+Meu primeiro repositório Git.
+Estou aprendendo Git.
